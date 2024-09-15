@@ -1,3 +1,21 @@
-h1{
-    color: red;
+
+*{
+
+    margin: 0;
+    padding: 0;
+}
+.hero{
+  
+    background-image: url(../Images/cow.jpg); 
+    background-size: cover;
+    background-position: 50px ;
+    height: 100vh;
+}
+.hero h1{
+    color: beige;
+    font-size: 90px;
+    text-align: center;
+    font-weight: 150;
+    font-family: cursive;
+  
 }
